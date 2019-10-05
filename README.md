@@ -24,6 +24,6 @@ To create a set of tools that can be used during and after the design process to
 
 
 ## License
-This project is licenced under GNU GPL v3.
+This project is licensed under GNU GPL v3.
 
 This tool is in development and may contain errors or omissions. Its use is solely at the users own risk. Any calculation outputs from the code should be thoroughly checked by the user. If any errors are found please report them.
