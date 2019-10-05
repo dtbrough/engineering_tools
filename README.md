@@ -1,4 +1,4 @@
-# engineering_tools
+# Engineering Tools
 
 A set of tools and functions for use in engineering calculations. Functions and modules to return symbolic representations to use in documenting calculations to complement FEM simulations.
 
